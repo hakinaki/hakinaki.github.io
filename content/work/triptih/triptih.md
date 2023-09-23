@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 9
 images:
 - /images/trieste/triptih/trio.jpg
 title: triptih
