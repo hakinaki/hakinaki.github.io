@@ -2,7 +2,7 @@ baseURL: https://nadjabalac.com
 title: Nađa Balać
 defaultContentLanguage: 'en'
 theme: eternity
-googleAnalytics: '' # todo: set your analytics id.
+googleAnalytics: ' G-0PV2TX0VKG'
 
 params:
   image: /images/banner.png
