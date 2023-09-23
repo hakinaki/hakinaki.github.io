@@ -8,7 +8,7 @@ url: work
         A portfolio of my work. Still under construction.. 
 	</p>
 	<p>
-		It will be updated <strong>soon ...</strong> Stay tuned.
+		It will be updated <strong>soon...</strong> Stay tuned.
 	</p>
 </div>
 
