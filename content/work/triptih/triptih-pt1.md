@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 4
 images:
 - /images/trieste/triptih/triptih1.jpg
 title: triptih part 1

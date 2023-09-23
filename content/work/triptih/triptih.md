@@ -1,5 +1,5 @@
 ---
-weight: 9
+weight: 6
 images:
 - /images/trieste/triptih/trio.jpg
 title: triptih
@@ -8,6 +8,7 @@ hideExif: true
 tags:
 - archive # all posts
 - triptih
+- work
 - trieste
 ---
 

@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 4
 images:
 - /images/trieste/paintings/art2.jpg
 title: painting 2

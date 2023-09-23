@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 4
 images:
 - /images/trieste/feltpen/flo1.jpg
 title: feltpen 1

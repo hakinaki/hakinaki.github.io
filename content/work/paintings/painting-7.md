@@ -1,5 +1,5 @@
 ---
-weight: 7
+weight: 4
 images:
 - /images/trieste/paintings/art7.jpg
 title: painting 7

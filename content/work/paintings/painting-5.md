@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 4
 images:
 - /images/trieste/paintings/art5.jpg
 title: painting 5

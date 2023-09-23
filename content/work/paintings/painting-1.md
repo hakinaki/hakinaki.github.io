@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 4
 images:
 - /images/trieste/paintings/art1.jpg
 title: painting 1

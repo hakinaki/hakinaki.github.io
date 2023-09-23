@@ -1,5 +1,5 @@
 ---
-weight: 7
+weight: 4
 images:
 - /images/trieste/feltpen/flo7.jpg
 title: feltpen 7

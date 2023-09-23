@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 6
 images:
 - /images/trieste/paintings/art3.jpg
 title: painting 3

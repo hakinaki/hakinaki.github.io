@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 3
 images:
 - /images/trieste/feltpen/flo2.jpg
 title: feltpen 2

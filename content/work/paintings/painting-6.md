@@ -1,5 +1,5 @@
 ---
-weight: 6
+weight: 4
 images:
 - /images/trieste/paintings/art6.jpg
 title: painting 6
